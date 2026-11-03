@@ -1,1 +1,1 @@
-{ "version": "1.0.9", "url": "https://github.com/titou32lmr-dot/Ti-tools-releases/releases/download/v1.0.9/Titou_Setup_1.0.9.exe", "notes": "- La notification de mise a jour est maintenant centree et reste affichee jusqu a sa fermeture\n- Nouveau bouton : Redemarrer Revit maintenant (installe la mise a jour puis relance Revit)" }
+{ "version": "1.0.10", "url": "https://github.com/titou32lmr-dot/Ti-tools-releases/releases/download/v1.0.10/Titou_Setup_1.0.10.exe", "notes": "- La commande Gestion du flux est retiree du ruban de la version installee (encore en developpement)" }
